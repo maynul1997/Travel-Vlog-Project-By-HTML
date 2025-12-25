@@ -5,4 +5,5 @@ nav li a{
 
 nav li {
     list-style: none;
+    display: inline;
 }
