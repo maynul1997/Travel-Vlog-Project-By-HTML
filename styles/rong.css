@@ -6,4 +6,5 @@ nav li a{
 nav li {
     list-style: none;
     display: inline;
+    margin: 20px;
 }
